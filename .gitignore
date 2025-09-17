@@ -1,0 +1,17 @@
+
+# foders
+res
+output
+result
+txt
+__pycache__
+Test
+volumes
+
+# files
+*.pt
+*.pkl
+*.o
+*.bin
+*.txt
+test.py
